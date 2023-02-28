@@ -8,7 +8,7 @@ function createFilter() {
   const navli = document.createElement("li");
   navbar.prepend(navli);
   const img = document.createElement("img");
-  img.src = "icons/filter-icon-48.png";
+  img.src = "https://raw.githubusercontent.com/NickChach/thegreatfilter/main/icons/filter-icon-48.png";
   navli.appendChild(img);
   const dialog = document.createElement("dialog");
 
