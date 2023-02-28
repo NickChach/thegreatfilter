@@ -3,7 +3,7 @@
   "name": "The Great Facebook Filter",
   "short_name": "FB Filter",
   "version": "1.0",
-  "description": "Filter x Filter",
+  "description": "A Firefox browser extension to filter Facebook posts based on user's preferences.",
   "icons": {
     "48": "icons/filter-icon-48.png"
   },
